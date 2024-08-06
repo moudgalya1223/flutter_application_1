@@ -1,0 +1,1 @@
+A weather app is a digital tool that provides real-time and forecast weather information for a specific location. It's essentially a pocket-sized meteorologist, delivering essential details like temperature, humidity, wind speed, and precipitation directly to your smartphone or tablet.
